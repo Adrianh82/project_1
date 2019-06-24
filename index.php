@@ -56,3 +56,33 @@
 					</div>
 				</div>
 			</div>
+			
+		</div>
+	</header>
+
+
+	<div class="jumbotron">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h1 class="text-center">Lorem ipsum dolor sit amet</h1>
+					<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, dicta, cupiditate consequatur necessitatibus quos libero eius ipsum qui sit molestiae.</p>
+					<p>&nbsp;</p>
+					<p class="text-center"><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a> </p>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+ <footer class="bg-light">Content for  class "bg-light" Goes Here</footer>
+
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap-4.0.0.js"></script>
+</body>
+</html>
